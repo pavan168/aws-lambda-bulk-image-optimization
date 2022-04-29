@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "async": "^2.6.1",
+    "async": "^2.6.4",
     "gm": "^1.23.1",
     "path": "^0.12.7"
   },
